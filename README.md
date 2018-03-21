@@ -61,7 +61,7 @@ Or
 
 ## Domain Model
 
-![Domain Model]()
+![Domain Model](https://github.com/Dat17i/09_bank_exercise/blob/solution/src/Screen%20Shot%202018-03-21%20at%2021.18.48.png)
  
 
 
