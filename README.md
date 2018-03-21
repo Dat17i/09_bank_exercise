@@ -34,6 +34,29 @@ Customer requests to see the balance of his account.
 The account number and name of the customer together with the balance is displayed.
 
 ## Noun List
+<table>
+  <tr>
+    <td>
+      Customer, Money, 
+Account, Amount, 
+Bank, Fee, Balance, 
+Error message, 
+interest, interest rate, Account Number, 
+Customer Name,
+    </td>
+    <td>
+      Customer    
+         name    
+    Account
+      balance
+	    accountNumber
+    Bank
+      fee
+      interest rate
+</td>
+  </tr>
+</table>
+ 
 
 
 
