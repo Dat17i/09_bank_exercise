@@ -1,4 +1,4 @@
-# 09 Bank Exercise
+# Bank Exercise
 Exercise: from use cases to database
 
 ## Description of the Scenario:
