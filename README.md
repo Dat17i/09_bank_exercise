@@ -33,6 +33,10 @@ The Customer requests to deposit money. The bank calculates the interest based o
 Customer requests to see the balance of his account. 
 The account number and name of the customer together with the balance is displayed.
 
+## Noun List
+
+
+
 
 
   
