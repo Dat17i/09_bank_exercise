@@ -36,7 +36,27 @@ The account number and name of the customer together with the balance is display
 ## Noun List
 
 ````     
+  Customer, Money, 
+  Account, Amount, 
+  Bank, Fee, Balance, 
+  Error message, 
+  interest, interest rate, Account Number, 
+  Customer Name
+   
+````
+Or
 
+````     
+  Customer
+    name
+  Account
+    balance
+    accountNumber
+  Bank
+    fee
+    interest rate
+
+   
 ````
 
  
