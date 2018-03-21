@@ -2,6 +2,8 @@
 ## Exercise: from use cases to database.    
 ### From the information below you should now create a database that can  hold the information.
 
+# _
+
 ## Description of the Scenario:
   
 A customer opens a bank account in a bank.
