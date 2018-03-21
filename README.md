@@ -13,16 +13,16 @@ After opening the account the customer can withdraw, deposit and check his balan
 ![](https://github.com/Dat17i/09_bank_exercise/blob/master/src/Screen%20Shot%202018-03-21%20at%2020.59.29.png)
 
 ### UC#1: Withdraw Money
-**Actor: Customer**
+**Actor: Customer**    
 Customer requests to withdraw money from his account and specifies the amount. 
 The bank puts on a fee of 10 kr. when a withdrawal is made, so the customer gets the requested amount, and the fee is subducted on the remaining balance of the account. 
 
 ### UC#2: Deposit Money
-**Actor: Customer**
+**Actor: Customer**    
 The Customer requests to deposit money. The bank calculates the interest based on the interest rate and the amount just deposited, the interest and the amount is summed. The sum is then added to the account balance.
 
 ### UC#3: Check Balance
-**Actor: Customer**
+**Actor: Customer**    
 Customer requests to see the balance of his account. 
 The account number and name of the customer together with the balance is displayed.
 
