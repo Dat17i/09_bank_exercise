@@ -1,6 +1,6 @@
 # Bank Exercise
-## Exercise: from use cases to database.    
-### From the information below you should now create a database that can  hold the information.
+## Exercise: from use cases to database.     
+From the information below you should now create a database that can  hold the information.
 
 <hr>
 
