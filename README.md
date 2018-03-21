@@ -1,5 +1,6 @@
 # Bank Exercise
-Exercise: from use cases to database
+## Exercise: from use cases to database.    
+### From the information below you should now create a database that can  hold the information.
 
 ## Description of the Scenario:
   
