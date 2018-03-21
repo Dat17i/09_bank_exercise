@@ -1,7 +1,7 @@
 # Bank Exercise
 ## Exercise: from use cases to database.     
 From the information below you should now create a database that can  hold the information.    
-You have 15 minutes, and the we talk about it together in class. 
+You have 15 minutes, and then we talk about it together in class. 
 
 <hr>
 
